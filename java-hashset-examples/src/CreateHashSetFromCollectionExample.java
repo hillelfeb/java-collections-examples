@@ -7,6 +7,7 @@ public class CreateHashSetFromCollectionExample {
     public static void main(String[] args) {
         List<Integer> numbersDivisibleBy5 = new ArrayList<>();
         numbersDivisibleBy5.add(5);
+        numbersDivisibleBy5.add(1);
         numbersDivisibleBy5.add(10);
         numbersDivisibleBy5.add(15);
         numbersDivisibleBy5.add(20);
